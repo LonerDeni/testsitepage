@@ -10,10 +10,7 @@
 + Изучение Git (_В процессе_)
 + Изучение Java Core
 
-#### Первая программа 
+#### Первая программа
 ```System.out.println("Hello World!!")```
 
 [Ссылка на репозиторий](https://github.com/LonerDeni)
-
-
-Прогрес изучения Java  ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
